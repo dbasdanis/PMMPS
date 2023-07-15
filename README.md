@@ -1,8 +1,8 @@
 # PMMPS
 
-Predictive Model of Motion Picture Success using Machine Learning Algorithms
+### Predictive Model of Motion Picture Success using Machine Learning Algorithms
 
-Description: <br>
+#### Description: <br>
 The large volume of data has aroused interest in the study and development of algorithms that
 use them to draw conclusions. The role of data analysis and pattern finding has been taken by
 the data mining and machine learning scientific branches. The subject of diploma is a database of
